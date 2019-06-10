@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "myvenv\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\alkad\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "git.ignoreLimitWarning": true
 }
